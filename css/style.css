@@ -1,0 +1,95 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+button{
+	margin:50px;
+	height:50px;
+	text-align:center;
+	width:100px;
+	margin-left:100px;
+}
+.btn1{
+	border:1px solid blue;
+	background-color:brown;
+	padding:10px 20px;
+	border-top-right-radius:10px;
+	border-bottom-left-radius:10px;
+}
+.btn2{
+	border:5px solid green;
+	background-color:pink;
+	border-radius:100px;
+	padding:10px 20px;
+}
+.btn3{
+	border:3px dotted yellow;
+	background-color:red;
+	padding:10px 20px;
+	border-radius:120px;
+}
+.btn4{
+	border:3px dashed cyan;
+	background-color:maroon;
+	padding:10px 20px;
+	border-radius:10px;
+}
+.btn5{
+	border:3px double pink;
+	background-color:purple;
+	padding:10px 20px;
+	border-radius:5px;
+}
+.btn6{
+	border:5px groove gray;
+	background-color: blue;
+	padding:10px 20px;
+	border-radius:20%;
+}
+.btn7{
+	border:5px ridge red;
+	background-color:olive;
+	padding:10px 20px;
+	border-radius:5px 70px 10px 5px;
+}
+.btn8{
+	border:5px inset indigo;
+	background-color:gold;
+	padding:10px 20px;
+	border-radius:2px;
+}
+.btn9{
+	border:5px outset orange;
+	background-color:#FFA500;
+	padding:10px 20px;
+	border-radius:15px 20px 5px 10px;
+}
+
+.btn10{
+	border:5px hidden red;
+	background-color:skyblue;
+	padding:10px 20px;
+	border-radius:35px 5px 20px ;
+}
+
+.btn11{
+	border:5px solid yellow;
+	background-color:red;
+	padding:10px 20px;
+	border-radius:45px 10px;
+}
+
+.btn12{
+	border:5px dotted yellow;
+	background-color:red;
+	padding:10px 20px;
+	border-radius:40px 60px;
+
+}
+
+
+
+
+
+
